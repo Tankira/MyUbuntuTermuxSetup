@@ -8,7 +8,7 @@ pkg install wget
 clear
 
 # Download Custom Script for Setup Ubuntu
-wget "https://cdn.discordapp.com/attachments/762210463567052800/1308432757810270268/setup_ubuntu.sh?ex=673dec76&is=673c9af6&hm=1562a3ffc93dcf174333345709d7bc0a4207474b146df9306fb776602cee1fdc&"
+wget "https://raw.githubusercontent.com/Tankira/MyUbuntuTermuxSetup/refs/heads/main/setup_ubuntu.sh"
 
 # Proot-Distro install Ubuntu
 proot-distro install ubuntu
